@@ -1,2 +1,3 @@
 # CIAM
 Container Identity Access Management Protocol
+Container Identity Access Management (CIAM) is an application designed to manage the identity and access of containers within a virtualized environment. This protocol aims to provide a secure and efficient way to control and monitor container access, ensuring that only authorized users can interact with specific containers. Docker, a popular containerization platform, is leveraged as the hypervisor, enabling virtualization within containers. This protocol is implemented using Docker as the hypervisor, Python for the backend, Next.js for the frontend, and JSON for blockchain storage. CIAM is designed as an API-based system that acts as a bridge between the frontend and backend components.
